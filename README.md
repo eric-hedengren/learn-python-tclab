@@ -15,4 +15,6 @@
 
 [College Course](https://github.com/APMonitor/learn_python)
 
-The course version represented from [APMonitor](https://github.com/APMonitor/begin_python) is the stable version, but doesn't receive frequent updates. For latest version of the course, use the original repository [BeginnersTCLab](https://github.com/BaconBomber/BeginnersTCLab).
+The older course repository, represented from [APMonitor](https://github.com/APMonitor/begin_python), is the stable version.
+
+Unfortunately, it doesn't receive frequent updates to match the newest version of the repository. For latest version of the course, use the original repository [BeginnersTCLab](https://github.com/BaconBomber/BeginnersTCLab).
