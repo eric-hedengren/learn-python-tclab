@@ -1,4 +1,5 @@
 # Beginners TCLab
+### You can download the zip file, [here](https://github.com/BaconBomber/BeginnersTCLab/archive/master.zip).
 ### Simplified Version of the TCLab, no background knowledge is needed. These lessons teach you python interactively from beginners level using the [Temperature Control Kit](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl). Purchase is available at that link.
 
 ## Contact Us
