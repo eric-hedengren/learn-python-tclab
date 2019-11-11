@@ -3,7 +3,7 @@
 ## [Instructional Videos](https://www.youtube.com/channel/UCqwDe9U5zkA05x9pZZB72BA)
 ### Instructional Videos will be coming soon, for activity explanations, as well as lesson walkthroughs.
 
-### You can download the zip file, [here](https://github.com/BaconBomber/BeginnersTCLab/archive/master.zip).
+### You can download the zip file to the course, [here](https://github.com/BaconBomber/BeginnersTCLab/archive/master.zip).
 
 
 
